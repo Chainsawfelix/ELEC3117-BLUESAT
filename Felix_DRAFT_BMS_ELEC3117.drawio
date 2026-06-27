@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yu7vWmC2jIA7ZKvZWfw7">
-    <mxGraphModel dx="1501" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,10 +297,16 @@
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-11" edge="1" parent="1" source="rXRH4Sp4-wFGfyXoOShA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#a20025;strokeColor=#6F0000;" target="GJiPPoUIPalH_IAaafa5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rXRH4Sp4-wFGfyXoOShA-41" edge="1" parent="1" source="rXRH4Sp4-wFGfyXoOShA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#a20025;strokeColor=#6F0000;" target="NAxjb1hHm5aQZvO8obaU-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF8000);" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;DC CHARGE PORT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;(XT60)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="590" as="geometry" />
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-12" edge="1" parent="1" source="rXRH4Sp4-wFGfyXoOShA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#a20025;strokeColor=#6F0000;" target="NAxjb1hHm5aQZvO8obaU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXRH4Sp4-wFGfyXoOShA-42" edge="1" parent="1" source="rXRH4Sp4-wFGfyXoOShA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;" target="NAxjb1hHm5aQZvO8obaU-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF8000);" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PV CHARGE PORT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;(XT60)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
