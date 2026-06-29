@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yu7vWmC2jIA7ZKvZWfw7">
-    <mxGraphModel dx="1417" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-4" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#a20025;strokeColor=#6F0000;startArrow=classic;startFill=1;" target="rXRH4Sp4-wFGfyXoOShA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgaWGQU2xyvfQZa7Kwvu-4" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;" target="HgaWGQU2xyvfQZa7Kwvu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAxjb1hHm5aQZvO8obaU-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="3S Li-Po Battery&lt;div&gt;(2200mAh &amp;amp; 30C rating)&lt;/div&gt;" vertex="1">
@@ -215,12 +218,12 @@
             <mxPoint x="910" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3en3RKwBPFCjNrYfRkpu-18" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e51400;strokeColor=#B20000;startArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="NAxjb1hHm5aQZvO8obaU-35">
+        <mxCell id="3en3RKwBPFCjNrYfRkpu-18" edge="1" parent="1" source="HgaWGQU2xyvfQZa7Kwvu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e51400;strokeColor=#B20000;startArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="NAxjb1hHm5aQZvO8obaU-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="745" />
+              <mxPoint x="420" y="760" />
             </Array>
-            <mxPoint x="800" y="1300" as="sourcePoint" />
+            <mxPoint x="420" y="680" as="sourcePoint" />
             <mxPoint x="1130" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -335,6 +338,9 @@
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PMOS MOSFET&lt;br&gt;FDD4141" vertex="1">
           <mxGeometry height="60" width="120" x="1140" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="HgaWGQU2xyvfQZa7Kwvu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Battery protection ic" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
