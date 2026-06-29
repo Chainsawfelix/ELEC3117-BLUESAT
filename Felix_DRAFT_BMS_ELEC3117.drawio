@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yu7vWmC2jIA7ZKvZWfw7">
-    <mxGraphModel dx="1548" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="500" width="480" x="940" y="560" as="geometry" />
+          <mxGeometry height="380" width="480" x="940" y="560" as="geometry" />
         </mxCell>
         <mxCell id="NAxjb1hHm5aQZvO8obaU-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="530" width="570" x="350" y="370" as="geometry" />
@@ -131,11 +131,13 @@
         <mxCell id="NAxjb1hHm5aQZvO8obaU-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF8000);" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;DISCHARGE PORT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;(XT60)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="rXRH4Sp4-wFGfyXoOShA-13" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;" target="GJiPPoUIPalH_IAaafa5-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rXRH4Sp4-wFGfyXoOShA-13" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;" target="rXRH4Sp4-wFGfyXoOShA-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NAxjb1hHm5aQZvO8obaU-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reverse Polarity&lt;br&gt;Protection via PMOS&lt;br&gt;FDD4141" vertex="1">
-          <mxGeometry height="60" width="120" x="1140" y="980" as="geometry" />
+          <mxGeometry height="60" width="120" x="1140" y="860" as="geometry" />
         </mxCell>
         <mxCell id="NAxjb1hHm5aQZvO8obaU-45" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" target="NAxjb1hHm5aQZvO8obaU-48">
           <mxGeometry relative="1" as="geometry">
@@ -155,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAxjb1hHm5aQZvO8obaU-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Solar panel&lt;div&gt;12V nominal&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="1520" y="980" as="geometry" />
+          <mxGeometry height="60" width="110" x="1520" y="860" as="geometry" />
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-17" edge="1" parent="1" source="NAxjb1hHm5aQZvO8obaU-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="NAxjb1hHm5aQZvO8obaU-5">
           <mxGeometry relative="1" as="geometry">
@@ -273,13 +275,7 @@
         <mxCell id="3en3RKwBPFCjNrYfRkpu-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MPPT IC&amp;nbsp;&lt;div&gt;(buck-boost converter and voltage regulator)&lt;div&gt;BQ25713&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="950" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="rXRH4Sp4-wFGfyXoOShA-36" edge="1" parent="1" source="GJiPPoUIPalH_IAaafa5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="rXRH4Sp4-wFGfyXoOShA-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GJiPPoUIPalH_IAaafa5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="15V Zener Diode&lt;br&gt;1N4744A" vertex="1">
-          <mxGeometry height="60" width="120" x="1140" y="870" as="geometry" />
-        </mxCell>
-        <mxCell id="rXRH4Sp4-wFGfyXoOShA-37" edge="1" parent="1" source="GJiPPoUIPalH_IAaafa5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rXRH4Sp4-wFGfyXoOShA-31">
+        <mxCell id="rXRH4Sp4-wFGfyXoOShA-37" edge="1" parent="1" source="GJiPPoUIPalH_IAaafa5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#a20025;strokeColor=#6F0000;" target="rXRH4Sp4-wFGfyXoOShA-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJiPPoUIPalH_IAaafa5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reverse Polarity&lt;br&gt;Protection via PMOS&lt;br&gt;FDD4141" vertex="1">
@@ -310,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF8000);" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PV CHARGE PORT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;(XT60)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1360" y="980" as="geometry" />
+          <mxGeometry height="60" width="120" x="1360" y="860" as="geometry" />
         </mxCell>
         <mxCell id="rXRH4Sp4-wFGfyXoOShA-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5" value="CHARGE CONTROLLER" vertex="1">
           <mxGeometry height="40" width="60" x="970" y="580" as="geometry" />
