@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "98e7c8af-c63f-4d9e-994b-d9e11cedf312")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 17.78 17.78)
+		(size 50.8 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "60778a2f-0b7b-4254-a7c1-4a534bd0840e")
+		(property "Sheetname" "ESP32-WROOM-S3"
+			(at 17.78 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32_WROOM_S3_1.kicad_sch"
+			(at 17.78 88.2146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MAIN"
+				(path "/98e7c8af-c63f-4d9e-994b-d9e11cedf312"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 17.78)
+		(size 57.15 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "81e3a65a-1463-44e6-9fb8-be833e824db7")
+		(property "Sheetname" "BQ76952"
+			(at 73.66 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BQ76952.kicad_sch"
+			(at 73.66 88.2146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MAIN"
+				(path "/98e7c8af-c63f-4d9e-994b-d9e11cedf312"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 17.78)
+		(size 55.88 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c70cc6e5-c401-4c7c-8b2e-1425d5c138fd")
+		(property "Sheetname" "3S_LiPo"
+			(at 135.89 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3S_LiPo.kicad_sch"
+			(at 135.89 88.2146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MAIN"
+				(path "/98e7c8af-c63f-4d9e-994b-d9e11cedf312"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
