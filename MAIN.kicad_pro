@@ -648,7 +648,7 @@
         "uuid": "98e7c8af-c63f-4d9e-994b-d9e11cedf312"
       }
     ],
-    "used_designators": "U1-4,SW1-5,P1,D1-6,#PWR1-12,J1-2,R1-12,C1-10",
+    "used_designators": "#PWR13-20,D4-13,BT1-3,C6-21,R7-30,Q1-5",
     "variants": []
   },
   "sheets": [
@@ -663,10 +663,6 @@
     [
       "81e3a65a-1463-44e6-9fb8-be833e824db7",
       "BQ76952"
-    ],
-    [
-      "c70cc6e5-c401-4c7c-8b2e-1425d5c138fd",
-      "3S_LiPo"
     ]
   ],
   "text_variables": {},

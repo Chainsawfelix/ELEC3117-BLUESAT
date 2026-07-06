@@ -2838,7 +2838,7 @@
 	)
 	(rectangle
 		(start 115.57 63.5)
-		(end 173.99 144.78)
+		(end 180.34 144.78)
 		(stroke
 			(width 0)
 			(type default)
@@ -3180,6 +3180,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 116.84) (xy 167.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ee3e0ca-4502-42fb-8521-5eeb82fda6be")
+	)
+	(wire
+		(pts
 			(xy 59.69 142.24) (xy 72.39 142.24)
 		)
 		(stroke
@@ -3407,6 +3417,16 @@
 			(type default)
 		)
 		(uuid "f06ca8e1-b6b1-4249-a345-b7717a86fef9")
+	)
+	(wire
+		(pts
+			(xy 158.75 129.54) (xy 167.64 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f13aa560-8a50-4c90-a27e-106904f81fb9")
 	)
 	(wire
 		(pts
@@ -3847,6 +3867,54 @@
 			(justify left bottom)
 		)
 		(uuid "f69e20a1-e17a-4804-b222-39145c2afb90")
+	)
+	(global_label "BATS_EN"
+		(shape output)
+		(at 167.64 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "053d821d-b368-426d-8dcf-24820de416d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.608 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "BAT_ADC"
+		(shape input)
+		(at 167.64 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ff172085-e150-4b3e-b3a3-04119f6463cf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.5476 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
