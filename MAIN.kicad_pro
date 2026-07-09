@@ -648,7 +648,7 @@
         "uuid": "98e7c8af-c63f-4d9e-994b-d9e11cedf312"
       }
     ],
-    "used_designators": "#PWR13-20,D4-13,BT1-3,C6-21,R7-30,Q1-5",
+    "used_designators": "C21-32,D9-10,D12-16,#PWR13-18,#PWR21-39,NT1,R29-59,E1-3,Q6-14",
     "variants": []
   },
   "sheets": [
@@ -663,6 +663,10 @@
     [
       "81e3a65a-1463-44e6-9fb8-be833e824db7",
       "BQ76952"
+    ],
+    [
+      "7c6881f8-dfa6-4618-b1e2-e255c78f6fc4",
+      "Protection FET"
     ]
   ],
   "text_variables": {},
