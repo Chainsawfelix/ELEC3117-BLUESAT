@@ -4845,6 +4845,12 @@
 		(uuid "1b756393-a218-41c2-808f-f1aa81f3a3b5")
 	)
 	(junction
+		(at 254 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c8448fb-1f7b-488a-96f6-e11245605f9b")
+	)
+	(junction
 		(at 74.93 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5131,6 +5137,16 @@
 			(type default)
 		)
 		(uuid "0e850f56-0947-4b07-84fa-0be41e0eab5c")
+	)
+	(wire
+		(pts
+			(xy 254 29.21) (xy 266.7 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "107162b7-1fad-479b-aad5-69ebcad3fbd7")
 	)
 	(wire
 		(pts
@@ -5991,16 +6007,6 @@
 			(type default)
 		)
 		(uuid "aa40b7c9-5b05-4372-ab26-97b7c77bb23d")
-	)
-	(wire
-		(pts
-			(xy 266.7 29.21) (xy 261.62 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aae476de-7d47-4a0a-ab7e-2cc0e1ff6273")
 	)
 	(wire
 		(pts
@@ -10837,7 +10843,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 257.81 29.21 90)
+		(at 254 25.4 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10848,27 +10854,29 @@
 		(fields_autoplaced yes)
 		(uuid "b068a242-cfe2-420e-9f69-a61e7d5c1994")
 		(property "Reference" "R1"
-			(at 257.81 22.86 90)
+			(at 256.54 24.1299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "5.1k"
-			(at 257.81 25.4 90)
+		(property "Value" "3.3v"
+			(at 256.54 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 258.064 28.194 90)
+			(at 252.984 25.146 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10879,7 +10887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 29.21 0)
+			(at 254 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10890,7 +10898,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 257.81 29.21 0)
+			(at 254 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
