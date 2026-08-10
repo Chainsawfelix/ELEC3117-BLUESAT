@@ -577,6 +577,15 @@
             <mxPoint x="190" y="167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lApEb6rrVOdehvFU7XF0-56" parent="lApEb6rrVOdehvFU7XF0-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="High Voltage" vertex="1">
+          <mxGeometry height="30" width="76" x="30" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="lApEb6rrVOdehvFU7XF0-57" parent="lApEb6rrVOdehvFU7XF0-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data" vertex="1">
+          <mxGeometry height="30" width="76" x="30" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="lApEb6rrVOdehvFU7XF0-58" parent="lApEb6rrVOdehvFU7XF0-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wireless" vertex="1">
+          <mxGeometry height="30" width="76" x="30" y="151" as="geometry" />
+        </mxCell>
         <mxCell id="lApEb6rrVOdehvFU7XF0-39" edge="1" parent="1" source="lApEb6rrVOdehvFU7XF0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;startArrow=classic;startFill=1;" target="NAxjb1hHm5aQZvO8obaU-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -587,6 +596,9 @@
           <mxGeometry x="992" y="680" as="geometry">
             <mxPoint x="89" y="34" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lApEb6rrVOdehvFU7XF0-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Low Voltage" vertex="1">
+          <mxGeometry height="30" width="76" x="1426" y="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
